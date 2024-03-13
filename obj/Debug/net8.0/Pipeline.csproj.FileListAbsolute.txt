@@ -1,0 +1,14 @@
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\Pipeline\bin\Debug\net8.0\Pipeline.exe
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\Pipeline\bin\Debug\net8.0\Pipeline.deps.json
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\Pipeline\bin\Debug\net8.0\Pipeline.runtimeconfig.json
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\Pipeline\bin\Debug\net8.0\Pipeline.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\Pipeline\bin\Debug\net8.0\Pipeline.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\Pipeline\obj\Debug\net8.0\Pipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\Pipeline\obj\Debug\net8.0\Pipeline.AssemblyInfoInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\Pipeline\obj\Debug\net8.0\Pipeline.AssemblyInfo.cs
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\Pipeline\obj\Debug\net8.0\Pipeline.csproj.CoreCompileInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\Pipeline\obj\Debug\net8.0\Pipeline.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\Pipeline\obj\Debug\net8.0\refint\Pipeline.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\Pipeline\obj\Debug\net8.0\Pipeline.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\Pipeline\obj\Debug\net8.0\Pipeline.genruntimeconfig.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\Pipeline\obj\Debug\net8.0\ref\Pipeline.dll
